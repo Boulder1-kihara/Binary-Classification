@@ -1,1 +1,1 @@
-# Binary-Classification
+# Binary-Classification\n\nThis repository contains a notebook for experimenting with binary classification. Open the notebook in Google Colab or Jupyter to run the examples.\n
